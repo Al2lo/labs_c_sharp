@@ -1,0 +1,11 @@
+02.10.2022 22:17:30, INFO: What is it.Why is not correct 
+02.10.2022 22:17:40, INFO: What is it.Why is not correct 
+02.10.2022 22:18:12, INFO: Время не может быть отрицательным -1
+02.10.2022 22:42:59, INFO: What is it.Why is not correct  
+03.10.2022 16:44:22, INFO: What is it.Why is not correct  
+03.10.2022 16:53:22, INFO: What is it.Why is not correct  
+03.10.2022 16:53:44, INFO: What is it.Why is not correct  
+03.10.2022 16:55:32, INFO: Время не может быть отрицательным -1
+03.10.2022 17:31:29, INFO: Время не может быть отрицательным -1
+03.10.2022 17:34:50, INFO: What is it.Why is not correct  
+03.10.2022 17:36:01, INFO: Время не может быть отрицательным 0

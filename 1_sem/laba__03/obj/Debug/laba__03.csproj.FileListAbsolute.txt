@@ -1,0 +1,3 @@
+D:\ООП\laba__03\obj\Debug\laba__03.csproj.AssemblyReference.cache
+D:\ООП\laba__03\obj\Debug\laba__03.csproj.SuggestedBindingRedirects.cache
+D:\ООП\laba__03\obj\Debug\laba__03.csproj.CoreCompileInputs.cache

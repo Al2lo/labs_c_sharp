@@ -1,0 +1,71 @@
+﻿<Window x:Class="laba4_5.WorkWithBludsWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:laba4_5"
+        mc:Ignorable="d"
+        Title="Window1" Height="470" Width="320">
+
+
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="150"></ColumnDefinition>
+            <ColumnDefinition Width="150"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+
+        <Grid Background="DarkCyan">
+            <UniformGrid Rows="5">
+                <Grid>
+                    <TextBlock Text="Enter name" HorizontalAlignment="Left" Margin="10,-22,0,0" Width="100" Height="17"></TextBlock>
+                    <TextBox Text="" HorizontalAlignment="Left" Margin="10,10,0,0" Width="100" Height="17" Name="NameBlock" MouseDoubleClick="Name_Double_Click" ></TextBox>
+                </Grid>
+
+                <Grid>
+                    <TextBlock Text="Enter full name" HorizontalAlignment="Left" Margin="10,-22,0,0" Width="100" Height="17" ></TextBlock>
+                    <TextBox Text="" HorizontalAlignment="Left" Margin="10,10,0,0" Width="100" Height="17" Name="FullName" MouseDoubleClick="FullName_Double_Click" ></TextBox>
+                </Grid>
+
+                <Grid>
+                    <TextBlock Text="Enter type" HorizontalAlignment="Left" Margin="10,-22,0,0" Width="100" Height="17" ></TextBlock>
+                    <TextBox Text="" HorizontalAlignment="Left" Margin="10,10,0,0" Width="100" Height="17" Name="TypeBlock" MouseDoubleClick="Type_Double_Click" ></TextBox>
+                </Grid>
+                <Grid>
+                    <TextBlock Text="Enter coast" HorizontalAlignment="Left" Margin="10,-22,0,0" Width="100" Height="17" ></TextBlock>
+                    <TextBox Text="" HorizontalAlignment="Left" Margin="10,10,0,0" Width="100" Height="17" Name="Coast" MouseDoubleClick="Coast_Double_Click" ></TextBox>
+                </Grid>
+                <Grid>
+                    <TextBlock Text="Enter comment" HorizontalAlignment="Left" Margin="10,-22,0,0" Width="100" Height="17" ></TextBlock>
+                    <TextBox Text="" HorizontalAlignment="Left" Margin="10,10,0,0" Width="100" Height="17" Name="CommentBlock" MouseDoubleClick="Comment_Double_Click" ></TextBox>
+                </Grid>
+            </UniformGrid>
+        </Grid>
+
+        <Grid Grid.Column="1">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="1.5 in"></RowDefinition>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+            </Grid.RowDefinitions>
+
+
+
+            <Grid Grid.Row="0">
+                <Image Margin="5,0,0,0" Name="ImageBox"></Image>
+                <Border BorderBrush="Black"  Margin="5,0,0,0" BorderThickness="2"/>
+            </Grid>
+
+            <Grid Grid.Row="1">
+                <Button Content="Add photo" VerticalAlignment="Center" HorizontalAlignment="Center" Height="60" Width="100" Click="Click_Add_Photo" Name="Add_Photo"></Button>
+            </Grid>
+
+            <Grid Grid.Row="2">
+                <Button VerticalAlignment="top" HorizontalAlignment="Center" Width="100" Height="45" Margin="0,30,0,0" Content="Add Ingridients" Name="Button_Add_Ingridients" Click="Click_Add_Ingridient"></Button>
+                <Button VerticalAlignment="Top" HorizontalAlignment="Right" Width="50" Height="25" Margin="0,115,25,0" Content="Create" Name="Button_Close_Create_Bludo" Click="Click_Close_Create_Bludo"></Button>
+            </Grid>
+
+        </Grid>
+
+    </Grid>
+</Window>

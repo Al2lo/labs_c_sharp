@@ -1,0 +1,15 @@
+D:\ООП\laba_08\obj\Debug\net6.0\laba_08.csproj.AssemblyReference.cache
+D:\ООП\laba_08\obj\Debug\net6.0\laba_08.GeneratedMSBuildEditorConfig.editorconfig
+D:\ООП\laba_08\obj\Debug\net6.0\laba_08.AssemblyInfoInputs.cache
+D:\ООП\laba_08\obj\Debug\net6.0\laba_08.AssemblyInfo.cs
+D:\ООП\laba_08\obj\Debug\net6.0\laba_08.csproj.CoreCompileInputs.cache
+D:\ООП\laba_08\bin\Debug\net6.0\laba_08.exe
+D:\ООП\laba_08\bin\Debug\net6.0\laba_08.deps.json
+D:\ООП\laba_08\bin\Debug\net6.0\laba_08.runtimeconfig.json
+D:\ООП\laba_08\bin\Debug\net6.0\laba_08.dll
+D:\ООП\laba_08\bin\Debug\net6.0\laba_08.pdb
+D:\ООП\laba_08\obj\Debug\net6.0\laba_08.dll
+D:\ООП\laba_08\obj\Debug\net6.0\refint\laba_08.dll
+D:\ООП\laba_08\obj\Debug\net6.0\laba_08.pdb
+D:\ООП\laba_08\obj\Debug\net6.0\laba_08.genruntimeconfig.cache
+D:\ООП\laba_08\obj\Debug\net6.0\ref\laba_08.dll

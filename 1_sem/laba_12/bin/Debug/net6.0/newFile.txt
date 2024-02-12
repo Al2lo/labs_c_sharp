@@ -1,0 +1,13 @@
+Все файлы:
+D:\ООП\laba_12\bin\Debug\net6.0\laba_12.deps.json
+D:\ООП\laba_12\bin\Debug\net6.0\laba_12.dll
+D:\ООП\laba_12\bin\Debug\net6.0\laba_12.exe
+D:\ООП\laba_12\bin\Debug\net6.0\laba_12.pdb
+D:\ООП\laba_12\bin\Debug\net6.0\laba_12.runtimeconfig.json
+D:\ООП\laba_12\bin\Debug\net6.0\LADLog.txt
+D:\ООП\laba_12\bin\Debug\net6.0\LOG.txt
+D:\ООП\laba_12\bin\Debug\net6.0\zipFile.zip
+Все директории :
+D:\ООП\laba_12\bin\Debug\net6.0\LADInspect
+D:\ООП\laba_12\bin\Debug\net6.0\new
+D:\ООП\laba_12\bin\Debug\net6.0\zip

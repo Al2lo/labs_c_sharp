@@ -1,0 +1,15 @@
+D:\ООП\laaba_2\laaba_2\bin\Debug\net6.0\laaba_2.exe
+D:\ООП\laaba_2\laaba_2\bin\Debug\net6.0\laaba_2.deps.json
+D:\ООП\laaba_2\laaba_2\bin\Debug\net6.0\laaba_2.runtimeconfig.json
+D:\ООП\laaba_2\laaba_2\bin\Debug\net6.0\laaba_2.dll
+D:\ООП\laaba_2\laaba_2\bin\Debug\net6.0\laaba_2.pdb
+D:\ООП\laaba_2\laaba_2\obj\Debug\net6.0\laaba_2.csproj.AssemblyReference.cache
+D:\ООП\laaba_2\laaba_2\obj\Debug\net6.0\laaba_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\ООП\laaba_2\laaba_2\obj\Debug\net6.0\laaba_2.AssemblyInfoInputs.cache
+D:\ООП\laaba_2\laaba_2\obj\Debug\net6.0\laaba_2.AssemblyInfo.cs
+D:\ООП\laaba_2\laaba_2\obj\Debug\net6.0\laaba_2.csproj.CoreCompileInputs.cache
+D:\ООП\laaba_2\laaba_2\obj\Debug\net6.0\laaba_2.dll
+D:\ООП\laaba_2\laaba_2\obj\Debug\net6.0\refint\laaba_2.dll
+D:\ООП\laaba_2\laaba_2\obj\Debug\net6.0\laaba_2.pdb
+D:\ООП\laaba_2\laaba_2\obj\Debug\net6.0\laaba_2.genruntimeconfig.cache
+D:\ООП\laaba_2\laaba_2\obj\Debug\net6.0\ref\laaba_2.dll

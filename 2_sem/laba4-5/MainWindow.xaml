@@ -1,0 +1,95 @@
+﻿<Window x:Class="laba4_5.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:laba4_5"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="600" Width="1050">
+    <Window.Resources>
+
+    </Window.Resources>
+    <Window.CommandBindings>
+        <CommandBinding Command="local:CustomCommand.PnvCommand" Executed="CommandBinding_Executed"></CommandBinding>
+    </Window.CommandBindings>
+    <Grid>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="2 in"></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+
+        <Grid Background="#e6e6fa">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition Width="15*"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="1.5 in"></RowDefinition>
+                <RowDefinition></RowDefinition>
+            </Grid.RowDefinitions>
+
+            <Grid Grid.Row="0" Grid.ColumnSpan="2">
+                <TextBlock VerticalAlignment="Top" HorizontalAlignment="Center" FontSize="20">Administrator:</TextBlock>
+                <TextBlock VerticalAlignment="Top" HorizontalAlignment="Center" FontSize="18" Margin="0,40,0,0">Anastasia Dmitrievna</TextBlock>
+                <TextBlock VerticalAlignment="Top" HorizontalAlignment="Center" FontSize="18" Margin="0,80,0,0">Стаж: 10 лет</TextBlock>
+            </Grid>
+            <Border BorderBrush="Snow" BorderThickness="1" Grid.ColumnSpan="2"></Border>
+            <Grid Grid.Row="1" Grid.ColumnSpan="2">
+                <UniformGrid VerticalAlignment="Top" Rows="4">
+                    <Button Content="Add Bludo" Style="{DynamicResource ButtonStyle}"  Margin="0,0,0,0" Click="Button_Click_Add" Name="Add_Button"></Button>
+                    <Button Content="redact bludo" Style="{DynamicResource ButtonStyle}" Margin="0,-40,0,0" Click="Button_Click_5" Name="RedactButtotn"></Button>
+                    <Button Content="Delete bludo" Style="{DynamicResource ButtonStyle}" Margin="0,-40,0,0" Click="Button_Click_4" Name="DeleteButton"></Button>
+                    <Button Content="ChengeStyle" Style="{DynamicResource ButtonStyle}" Margin="0,80,0,0" Name="ChengeStyleButtotn" Click="Button_click_ChengeStyle"></Button>
+
+                </UniformGrid>
+            </Grid>
+
+
+        </Grid>
+
+        <Grid Grid.Column="1" MouseDown="ClickOv" Name="grid2">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="1.5 in" ></RowDefinition>
+                <RowDefinition Height="*"></RowDefinition>
+            </Grid.RowDefinitions>
+
+
+
+            <Grid Grid.Row="0" MouseDown="ClickOv" Name="grid1" PreviewMouseDown="tynnel">
+                <TextBox  Template="{DynamicResource  containerTextBox}" Height="18" Width="400" VerticalAlignment="Bottom" Margin="10,0,0,106" HorizontalAlignment="Left" Text="Search / Filter / Price / category" FontSize="14" MouseDoubleClick="Search_Double_Click" Name="SearchBox" TextChanged="SearchBox_TextChanged" ></TextBox>
+                <Button Style="{DynamicResource ButtonStyle}" HorizontalAlignment="Right" VerticalAlignment="Top" Width="40" Margin="0,10,20,0" Name="RedoButton" Click="RedoButtonCLick" Content=">>"></Button>
+                <Button Style="{DynamicResource ButtonStyle}" HorizontalAlignment="Right" VerticalAlignment="Top" Width="40" Margin="0,10,70,0" Name="UndoButton" Click="UndoButtonClick" Content="&lt;&lt;"></Button>
+                <Button  Style="{DynamicResource ButtonStyle}" HorizontalAlignment="Right" VerticalAlignment="Top" Width="40" Margin="0,10,250,0" Content="new" Command="local:CustomCommand.PnvCommand"></Button>
+                <UniformGrid VerticalAlignment="Center" Columns="4">
+                    <Button Style="{DynamicResource ButtonStylуTopMenu}" Content="Fileter" Click="Button_Click" PreviewMouseDown="tynnel" Name="but"></Button>
+
+
+
+
+
+
+
+                    <Button Style="{DynamicResource ButtonStylуTopMenu}" Content="Search" Click="Button_Click_1" ></Button>
+                    <Button Style="{DynamicResource ButtonStylуTopMenu}" Content="Categoty" Click="Button_Click_2" ></Button>
+                    <Button Style="{DynamicResource ButtonStylуTopMenu}" Content="price" Click="Button_Click_3" ></Button>
+                </UniformGrid>
+                <local:UserControl1 Background="{Binding ElementName=SearchBox, Path=Text}" HorizontalAlignment="Left" VerticalAlignment="Top" x:Name="userControl1" Margin="20,114,0,0" Width="29" Loaded="userControl1_Loaded_2" ></local:UserControl1>
+                <local:UserControl1 Margin="768,114,20,10" Loaded="UserControl1_Loaded_1" x:Name="userControl2" Width="20" Height="20" ></local:UserControl1>
+            </Grid>
+
+            <Grid Grid.Row="1" Background="#c5d0e6" >
+                <ScrollViewer x:Name="MyScrollViewer" VerticalScrollBarVisibility="Auto">
+                    <WrapPanel ItemHeight="220" Width="{Binding ElementName=MyScrollViewer, Path=ActualWidth}" ItemWidth="180" Orientation="Horizontal" Name="WrapPanel" HorizontalAlignment="Left" VerticalAlignment="Top" >
+                    </WrapPanel>
+                </ScrollViewer>
+            </Grid>
+
+
+        </Grid>
+
+
+
+
+    </Grid>
+</Window>

@@ -1,0 +1,37 @@
+﻿<Window x:Class="laba4_5.WindowIngidients"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:laba4_5"
+        mc:Ignorable="d"
+        Title="Window2" Height="100" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1*"></ColumnDefinition>
+            <ColumnDefinition Width="1*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+
+        <Grid Grid.Column="0">
+            <TextBlock VerticalAlignment="Top" HorizontalAlignment="Left" FontSize="20" Text="Enter the ingridient" Margin="10,0,0,0"></TextBlock>
+            <TextBox VerticalAlignment="Top" HorizontalAlignment="Left" FontSize="20" Text="" Width="360" Margin="10,30,0,0" Name="Name_Of_Ingridient" MouseDoubleClick="Name_Of_Ingridient_Mouse_Double_Click"> </TextBox>
+        </Grid>
+        <Grid Grid.Column="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="1*"></ColumnDefinition>
+                <ColumnDefinition Width="1*"></ColumnDefinition>
+                <ColumnDefinition Width="1*"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+
+            <Grid Grid.Column ="0">
+                <Button VerticalAlignment="Center" HorizontalAlignment="Center" Width="100" Height="50" Content="Просмотреть" Click="Button_Click"></Button>
+            </Grid>
+            <Grid Grid.Column ="1">
+                <Button VerticalAlignment="Center" HorizontalAlignment="Center" Width="100" Height="50" Content="Добавить в список" Click="Button_Click1"></Button>
+            </Grid>
+            <Grid Grid.Column ="2">
+                <Button VerticalAlignment="Center" HorizontalAlignment="Center" Width="100" Height="50" Content="закрыть" Click="Button_Click2"></Button>
+            </Grid>
+        </Grid>
+    </Grid>
+</Window>

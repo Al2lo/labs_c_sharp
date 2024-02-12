@@ -1,0 +1,8 @@
+D:\структуры данных\лаба_1\лаба_1\bin\Debug\лаба_1.exe.config
+D:\структуры данных\лаба_1\лаба_1\bin\Debug\лаба_1.exe
+D:\структуры данных\лаба_1\лаба_1\bin\Debug\лаба_1.pdb
+D:\структуры данных\лаба_1\лаба_1\obj\Debug\лаба_1.csproj.AssemblyReference.cache
+D:\структуры данных\лаба_1\лаба_1\obj\Debug\лаба_1.csproj.SuggestedBindingRedirects.cache
+D:\структуры данных\лаба_1\лаба_1\obj\Debug\лаба_1.csproj.CoreCompileInputs.cache
+D:\структуры данных\лаба_1\лаба_1\obj\Debug\лаба_1.exe
+D:\структуры данных\лаба_1\лаба_1\obj\Debug\лаба_1.pdb

@@ -1,0 +1,51 @@
+laba_11, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+D:\ООП\laba_11\bin\Debug\net6.0\laba_11.dll
+конструкторы: Есть
+Публичные методы: vu 
+Main 
+GetType 
+ToString 
+Equals 
+GetHashCode 
+Информация о полях и свойствах: name, System.String, System.RuntimeFieldHandle
+Информация о интерфейсах: Work_Lab.a Work_Lab AutoLayout, AnsiClass, Class, ClassSemanticsMask, Abstract
+Информация о методах: vu
+Main
+GetType
+ToString
+Equals
+GetHashCode
+laba_11, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+D:\ООП\laba_11\bin\Debug\net6.0\laba_11.dll
+конструкторы: Есть
+Публичные методы: vu 
+Main 
+GetType 
+ToString 
+Equals 
+GetHashCode 
+Информация о полях и свойствах: name, System.String, System.RuntimeFieldHandle
+Информация о интерфейсах: Work_Lab.a Work_Lab AutoLayout, AnsiClass, Class, ClassSemanticsMask, Abstract
+Информация о методах: vu
+Main
+GetType
+ToString
+Equals
+GetHashCode
+laba_11, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+D:\ООП\laba_11\bin\Debug\net6.0\laba_11.dll
+конструкторы: Есть
+Публичные методы: vu 
+Main 
+GetType 
+ToString 
+Equals 
+GetHashCode 
+Информация о полях и свойствах: name, System.String, System.RuntimeFieldHandle
+Информация о интерфейсах: Work_Lab.a Work_Lab AutoLayout, AnsiClass, Class, ClassSemanticsMask, Abstract
+Информация о методах: vu
+Main
+GetType
+ToString
+Equals
+GetHashCode

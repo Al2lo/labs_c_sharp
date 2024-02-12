@@ -1,0 +1,11 @@
+D:\ООП\laba_04\bin\Debug\laba_04.exe.config
+D:\ООП\laba_04\bin\Debug\laba_04.exe
+D:\ООП\laba_04\bin\Debug\laba_04.pdb
+D:\ООП\laba_04\obj\Debug\laba_04.csproj.AssemblyReference.cache
+D:\ООП\laba_04\obj\Debug\laba_04.csproj.SuggestedBindingRedirects.cache
+D:\ООП\laba_04\obj\Debug\laba_04.csproj.CoreCompileInputs.cache
+D:\ООП\laba_04\obj\Debug\laba_04.exe
+D:\ООП\laba_04\obj\Debug\laba_04.pdb
+D:\ООП\laba_04\bin\Debug\Newtonsoft.Json.dll
+D:\ООП\laba_04\bin\Debug\Newtonsoft.Json.xml
+D:\ООП\laba_04\obj\Debug\laba_04.csproj.CopyComplete

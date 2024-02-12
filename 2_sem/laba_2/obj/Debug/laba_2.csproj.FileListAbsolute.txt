@@ -1,0 +1,16 @@
+D:\ООП\2_sem\laba_2\bin\Debug\laba_2.exe.config
+D:\ООП\2_sem\laba_2\bin\Debug\laba_2.exe
+D:\ООП\2_sem\laba_2\bin\Debug\laba_2.pdb
+D:\ООП\2_sem\laba_2\bin\Debug\System.Private.DataContractSerialization.dll
+D:\ООП\2_sem\laba_2\bin\Debug\System.Reflection.TypeExtensions.dll
+D:\ООП\2_sem\laba_2\obj\Debug\laba_2.csproj.AssemblyReference.cache
+D:\ООП\2_sem\laba_2\obj\Debug\laba_2.csproj.SuggestedBindingRedirects.cache
+D:\ООП\2_sem\laba_2\obj\Debug\laba_2.Form1.resources
+D:\ООП\2_sem\laba_2\obj\Debug\laba_2.Properties.Resources.resources
+D:\ООП\2_sem\laba_2\obj\Debug\laba_2.csproj.GenerateResource.cache
+D:\ООП\2_sem\laba_2\obj\Debug\laba_2.csproj.CoreCompileInputs.cache
+D:\ООП\2_sem\laba_2\obj\Debug\laba_2.csproj.CopyComplete
+D:\ООП\2_sem\laba_2\obj\Debug\laba_2.exe
+D:\ООП\2_sem\laba_2\obj\Debug\laba_2.pdb
+D:\ООП\2_sem\laba_2\obj\Debug\laba_2.Form2.resources
+D:\ООП\2_sem\laba_2\obj\Debug\laba_2.Form3.resources

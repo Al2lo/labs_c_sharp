@@ -1,0 +1,30 @@
+D:\структуры данных\2\laba_05\obj\Debug\net6.0\laba_05.csproj.AssemblyReference.cache
+D:\структуры данных\2\laba_05\obj\Debug\net6.0\laba_05.GeneratedMSBuildEditorConfig.editorconfig
+D:\структуры данных\2\laba_05\obj\Debug\net6.0\laba_05.AssemblyInfoInputs.cache
+D:\структуры данных\2\laba_05\obj\Debug\net6.0\laba_05.AssemblyInfo.cs
+D:\структуры данных\2\laba_05\obj\Debug\net6.0\laba_05.csproj.CoreCompileInputs.cache
+D:\структуры данных\2\laba_05\bin\Debug\net6.0\laba_05.exe
+D:\структуры данных\2\laba_05\bin\Debug\net6.0\laba_05.deps.json
+D:\структуры данных\2\laba_05\bin\Debug\net6.0\laba_05.runtimeconfig.json
+D:\структуры данных\2\laba_05\bin\Debug\net6.0\laba_05.dll
+D:\структуры данных\2\laba_05\bin\Debug\net6.0\laba_05.pdb
+D:\структуры данных\2\laba_05\obj\Debug\net6.0\laba_05.dll
+D:\структуры данных\2\laba_05\obj\Debug\net6.0\refint\laba_05.dll
+D:\структуры данных\2\laba_05\obj\Debug\net6.0\laba_05.pdb
+D:\структуры данных\2\laba_05\obj\Debug\net6.0\laba_05.genruntimeconfig.cache
+D:\структуры данных\2\laba_05\obj\Debug\net6.0\ref\laba_05.dll
+D:\ООП\laba_05\obj\Debug\net6.0\laba_05.csproj.AssemblyReference.cache
+D:\ООП\laba_05\obj\Debug\net6.0\laba_05.GeneratedMSBuildEditorConfig.editorconfig
+D:\ООП\laba_05\obj\Debug\net6.0\laba_05.AssemblyInfoInputs.cache
+D:\ООП\laba_05\obj\Debug\net6.0\laba_05.AssemblyInfo.cs
+D:\ООП\laba_05\obj\Debug\net6.0\laba_05.csproj.CoreCompileInputs.cache
+D:\ООП\laba_05\obj\Debug\net6.0\laba_05.dll
+D:\ООП\laba_05\obj\Debug\net6.0\refint\laba_05.dll
+D:\ООП\laba_05\obj\Debug\net6.0\laba_05.pdb
+D:\ООП\laba_05\bin\Debug\net6.0\laba_05.exe
+D:\ООП\laba_05\bin\Debug\net6.0\laba_05.deps.json
+D:\ООП\laba_05\bin\Debug\net6.0\laba_05.runtimeconfig.json
+D:\ООП\laba_05\bin\Debug\net6.0\laba_05.dll
+D:\ООП\laba_05\bin\Debug\net6.0\laba_05.pdb
+D:\ООП\laba_05\obj\Debug\net6.0\laba_05.genruntimeconfig.cache
+D:\ООП\laba_05\obj\Debug\net6.0\ref\laba_05.dll
